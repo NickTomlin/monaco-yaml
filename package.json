@@ -1,7 +1,7 @@
 {
-  "name": "monaco-yaml",
+  "name": "@nicktomlin/monaco-yaml",
   "version": "2.5.0",
-  "description": "YAML plugin for the Monaco Editor",
+  "description": "temporary fork of the YAML plugin for the Monaco Editor",
   "scripts": {
     "watch": "tsc -p ./src --watch",
     "compile": "rimraf ./out && yarn compile:umd && yarn compile:esm",

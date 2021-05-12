@@ -1,3 +1,7 @@
+⚠️ This is a temporary fork of monaco-yaml that incorporates the updates in [this](https://github.com/pengx17/monaco-yaml/pull/48) ⚠️
+
+use at your own risk!
+
 # Monaco YAML
 
 YAML language plugin for the Monaco Editor. It provides the following features when editing YAML files:
